@@ -28,7 +28,7 @@ Porque a veces la persona que se merece leer esto tarda demasiado en escuchar el
 | [`nuevayol.js`](./nuevayol.js) | NUEVAYoL |
 | [`dakiti.js`](./dakiti.js) | Dakiti (feat. Jhay Cortez) |
 
-> Más canciones próximamente. PRs bienvenidos 🙏
+> ¿Tu canción favorita no está? Agrégala y abre un PR 🙏 / Your favorite song missing? Add it and open a PR 🙏
 
 ---
 
